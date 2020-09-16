@@ -1,0 +1,16 @@
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerVisning.exe
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerVisning.deps.json
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerVisning.runtimeconfig.json
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerVisning.runtimeconfig.dev.json
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerVisning.dll
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerVisning.pdb
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerLibrary.dll
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\bin\Debug\netcoreapp3.1\LommeRegnerLibrary.pdb
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.csprojAssemblyReference.cache
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.AssemblyInfoInputs.cache
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.AssemblyInfo.cs
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.csproj.CopyComplete
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.dll
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.pdb
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerVisning\obj\Debug\netcoreapp3.1\LommeRegnerVisning.genruntimeconfig.cache

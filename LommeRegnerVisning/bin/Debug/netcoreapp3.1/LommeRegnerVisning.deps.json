@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LommeRegnerVisning/1.0.0": {
+        "dependencies": {
+          "LommeRegnerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LommeRegnerVisning.dll": {}
+        }
+      },
+      "LommeRegnerLibrary/1.0.0": {
+        "runtime": {
+          "LommeRegnerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LommeRegnerVisning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LommeRegnerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

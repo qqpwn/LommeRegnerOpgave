@@ -1,0 +1,9 @@
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\bin\Debug\netstandard2.0\LommeRegnerLibrary.deps.json
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\bin\Debug\netstandard2.0\LommeRegnerLibrary.dll
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\bin\Debug\netstandard2.0\LommeRegnerLibrary.pdb
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\obj\Debug\netstandard2.0\LommeRegnerLibrary.AssemblyInfoInputs.cache
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\obj\Debug\netstandard2.0\LommeRegnerLibrary.AssemblyInfo.cs
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\obj\Debug\netstandard2.0\LommeRegnerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\obj\Debug\netstandard2.0\LommeRegnerLibrary.dll
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\obj\Debug\netstandard2.0\LommeRegnerLibrary.pdb
+C:\Users\Maximilian\source\repos\LommeRegnerOpgave\LommeRegnerOpgave\obj\Debug\netstandard2.0\LommeRegnerLibrary.csprojAssemblyReference.cache
